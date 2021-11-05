@@ -1,5 +1,7 @@
 { 
-  "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature.",
+  "format": "zover",
+  "doi": "10.1093/nar/gkab862",
+  "citation": "Siyu Zhou, Bo Liu, Yelin Han, Yuyang Wang, Lihong Chen, Zhiqiang Wu, Jian Yang, ZOVER: the database of zoonotic and vector-borne viruses, Nucleic Acids Research, 2021;, gkab862, https://doi.org/10.1093/nar/gkab862",
+  "url": "http://www.mgc.ac.cn",
   "deprecated": false
 }
