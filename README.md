@@ -1,4 +1,4 @@
-[![GloBI review by Elton](https://github.com/globalbioticinteractions/zover/actions/workflows/review.yml/badge.svg)](https://github.com/globalbioticinteractions/zover/actions) [![Build Status](https://app.travis-ci.com/globalbioticinteractions/zover.svg)](https://app.travis-ci.com/globalbioticinteractions/zover)[![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/zover)](https://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/zover) 
+[![GloBI review by Elton](https://github.com/globalbioticinteractions/zover/actions/workflows/review.yml/badge.svg)](https://github.com/globalbioticinteractions/zover/actions) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/zover)](https://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/zover) 
 
 Global Biotic Interactions (GloBI, http://globalbioticinteractions.org) configuration to help index:
 
